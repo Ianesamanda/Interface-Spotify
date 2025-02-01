@@ -1,4 +1,4 @@
-# 🎵 Clone da Interface do Spotify  
+# Clone da Interface do Spotify  
 
 Este é um projeto que recria a interface do Spotify usando **HTML e CSS puro**. O objetivo foi praticar a construção de layouts modernos e responsivos.
 
